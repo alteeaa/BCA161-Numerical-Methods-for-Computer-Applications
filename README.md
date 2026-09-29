@@ -26,13 +26,13 @@ Each laboratory activity is placed in its own folder, for example:
 
 ```
 BCA161-Numerical-Methods/
-├── Lab1-Maclaurin-Series/
-├── Lab2-Bisection-Method/
-├── Lab3-False-Position-Method/
-├── Lab4-Newton-Raphson-I/
-├── Lab5-Newton-Raphson-II/
-├── Lab6-Naive-Gauss-Elimination/
-├── Lab7-Gauss-Jordan/
+├── Lapuz_LaboratoryActivity1/
+├── Lapuz_LaboratoryActivity2/
+├── Lapuz_LaboratoryActivity3/
+├── Lapuz_LaboratoryActivity4/
+├── Lapuz_LaboratoryActivity5/
+├── Lapuz_LaboratoryActivity6/
+├── Lapuz_LaboratoryActivity7/
 └── README.md
 ```
 
